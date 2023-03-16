@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13d4167e-dce8-4004-8bd0-1da6d1ff2ecf" name="Changes" comment="" />
+    <list default="true" id="13d4167e-dce8-4004-8bd0-1da6d1ff2ecf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InbuitFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MethodOverloading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UserDefinedFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/ClassesAndObjects.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/morningKotlinOne/META-INF/morningKotlinOne.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/morningKotlinOne/META-INF/morningKotlinOne.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,21 +41,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/emobilis",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.LoopsKt">
-    <configuration name="ConditionalExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalExpressionsKt" />
+  <component name="RunManager" selected="Kotlin.ClassesAndObjectsKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="morningKotlinOne" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatementKt" />
+    <configuration name="ClassesAndObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.ClassesAndObjectsKt" />
+      <module name="morningKotlinOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InbuitFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InbuitFunctionsKt" />
       <module name="morningKotlinOne" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,15 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTwoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableTwoKt" />
-      <module name="morningKotlinOne" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="UserDefinedFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserDefinedFunctionsKt" />
       <module name="morningKotlinOne" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassesAndObjectsKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.UserDefinedFunctionsKt" />
+        <item itemvalue="Kotlin.InbuitFunctionsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.ConditionalExpressionsKt" />
-        <item itemvalue="Kotlin.ConditionalStatementKt" />
-        <item itemvalue="Kotlin.VariableTwoKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
       </list>
     </recent_temporary>
   </component>

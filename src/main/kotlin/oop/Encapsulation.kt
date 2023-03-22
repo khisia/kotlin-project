@@ -10,6 +10,7 @@ fun main(args: Array<String>) {
 
 }
 class Person(var name:String, var age:String){
+
     private var salary:Double = 0.0
     private var residence:String = ""
     fun setSalary(salary:Double){
